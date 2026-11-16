@@ -1,27 +1,26 @@
-﻿# Galería de gatos
+# Galería de gatos
 
-Galería estática de tarjetas con fotos de gatos (Koki, Sadio, Diof…).
+Tarjetas estáticas con fotos de mis gatos (Koki, Sadio, Diof…).
 
 ## Qué hace
 
-- Tarjetas con foto + nombre
-- Alterna orden foto/texto en algunas tarjetas
+- Cada tarjeta tiene foto + nombre
+- En algunas el orden foto/texto se invierte
 - Estilos en `css/estilos.css`
 
 ## Cómo probarlo
 
-Abre `index.html` o la demo.
+Abre `index.html` (no hace falta JS).
 
 Demo: https://moussijoelle.github.io/galeri-/
 
 ## Cómo lo construí
 
-- HTML + CSS
-- Imágenes en `img/`
+HTML + CSS. Imágenes en `img/`.
 
 ## Cómo verificarlo
 
-Sin tests. Abro la página y reviso que carguen todas las fotos.
+Que carguen todas las fotos y que el texto no se desborde.
 
 ---
 
